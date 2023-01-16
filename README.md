@@ -17,9 +17,7 @@ The dialog box that appears when the script is run allows the user to update the
 
 ## JSON Data
 The exported JSON data will include the following properties:
-- product:  "Product Name"
-- version: 3.1
-- demo: true
+
 - object properties:
     - object name: {
         x: x position,
